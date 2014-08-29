@@ -10,6 +10,7 @@ As such, a _Feature_ would map to either major or minor. A _bug fix_ to a patch.
     * Taggable models are not extend with ActsAsTaggableOn::Utils anymore
   * Features
   * Fixes
+    * [@twalpole Update for rails edge (4.2)]
   * Performance
   * Misc
     * Deleted outdated benchmark script
